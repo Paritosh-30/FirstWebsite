@@ -1,0 +1,42 @@
+html{background-color: #FAF7F3;}
+img{height: 150px; width: 150px; }
+h1 {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+#hey{
+    font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+h3{
+    font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+h4{
+    font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: larger;
+  color: black;
+}
+.skills{
+    font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+#hobby{
+    text-align: center;
+}
+li{
+    font-size: larger;
+    color: black;
+}
+
+.contact{
+    text-align: center;
+}
